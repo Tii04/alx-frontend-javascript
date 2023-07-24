@@ -1,4 +1,4 @@
-# 0x02. ES6 classes
+# 0x00. ES6 Basics
 
 <img src="meme.png">
 
