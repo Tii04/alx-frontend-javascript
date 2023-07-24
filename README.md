@@ -11,27 +11,27 @@
     </a>
 </li>
 <li>
-    <a href ="https://intranet.alxswe.com/rltoken/bu6OK8Wbzzxr04Si-qup-w">
+    <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements">
         Statements and declarations
     </a>
 </li>
 <li>
-    <a href ="https://intranet.alxswe.com/rltoken/TB_tbhDM8tPkVIS4_Tw_rw">
+    <a href ="https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4?gi=d2ae003e53e1">
         Javascript ES6 — Iterables and Iterators
     </a>
 </li>
 <li>
-    <a href ="https://intranet.alxswe.com/rltoken/e1-hBHivLFWOip87Lc4Jfw">
+    <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters">
         Rest parameter
     </a>
 </li>
 <li>
-    <a href ="https://intranet.alxswe.com/rltoken/kn70en_i7XsVl9PUhAK1fQ">
+    <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">
         Default parameters
     </a>
 </li>
 <li>
-    <a href ="https://intranet.alxswe.com/rltoken/bu6OK8Wbzzxr04Si-qup-w">
+    <a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions">
         Arrow functions
     </a>
 </li>
