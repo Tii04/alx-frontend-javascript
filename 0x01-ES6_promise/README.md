@@ -84,13 +84,13 @@ in your project directory:
 
 ## Configuration Files
 
-#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_basic/package.json">package.json</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_promise/package.json">package.json</a>
 
-#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_basic/babel.config.js">babel.config.js</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_promise/babel.config.js">babel.config.js</a>
 
-#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_basic/utils.js">utils.js</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_promise/utils.js">utils.js</a>
 
-#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_basic/.eslintrc.js">.eslintrc.js</a>
+#### <a href="https://github.com/Tii04/alx-frontend-javascript/blob/main/0x01-ES6_promise/.eslintrc.js">.eslintrc.js</a>
 
 <br>
 
